@@ -1,3 +1,4 @@
+import React from 'react'
 import $ from 'jquery'
 import './App.css'
 import styled from 'styled-components'
