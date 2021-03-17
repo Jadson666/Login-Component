@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+## Project goal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this project is a demo project of UI component of login page
 
 ## Available Scripts
 
